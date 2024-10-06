@@ -1,4 +1,5 @@
-<?php
+<?phpred_hawkphp
+
 /*
  This is the configuration file for the moz accessID and secretkey for RED HAWK's bloggers view scan.
  If you are not a blogger or in other words if you are not interested in some geeky bloggers info about the target site you can leave this file alone.
